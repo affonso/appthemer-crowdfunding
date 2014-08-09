@@ -1,3 +1,8 @@
+#### 1.8.3: August 9, 2014
+
+* Improvement: Improves performance by retrieving campaign's total pledged amount in a single query.
+* Fix: A shipping bug that caused addresses outside the US or Canada to have the incorrect value.
+
 #### 1.8.2: April 7, 2014
 
 * Fix: Make sure failed funds are properly re-processed when trying again.
